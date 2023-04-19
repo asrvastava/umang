@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1067622979640",
+    "project_id": "umang-e7816",
+    "storage_bucket": "umang-e7816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067622979640:android:d18fc5d655d2141999aecd",
+        "android_client_info": {
+          "package_name": "com.example.umang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067622979640-7surq0thcltpg21csjanhcjlfuo0m2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJduyrw6x-a_3wsYZR7C8VtBbr8Ptn21E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067622979640-7surq0thcltpg21csjanhcjlfuo0m2hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067622979640-80u76r8phfv38j8pvs1f4p0o8tuqpja2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.umang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
